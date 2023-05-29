@@ -1,0 +1,20 @@
+.datosnombres{
+    display:flex ;
+    justify-content: space-between;
+}
+.labels{
+    display:flex ;
+    justify-content: space-between;
+}
+.categorias{
+    display:flex ;
+    justify-content: space-between;
+}
+.botones{
+    justify-content: space-between;
+    display: flex;
+}
+.boton{
+    width: 48%;
+    align-content: center;
+}
